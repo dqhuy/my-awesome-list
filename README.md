@@ -6,3 +6,6 @@ I use this repo to keep the list of some usefull, helpfull resource for my worki
 
 # .NET / DotNet
 - https://github.com/quozd/awesome-dotnet
+
+# Other resource
+- https://github.com/sindresorhus/awesome
