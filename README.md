@@ -4,6 +4,7 @@ I use this repo to keep the list of some usefull, helpfull resource for my worki
 ## AI 
 - Github agent template: code-agent, test-agent, docs-agent,..ect https://github.blog/ai-and-ml/github-copilot/how-to-write-a-great-agents-md-lessons-from-over-2500-repositories/
 - 500+ AI Agent Projects / UseCases https://github.com/ashishpatel26/500-AI-Agents-Projects
+- [Sample prompt](agent-prompt.md)
 
 ## .NET / DotNet
 - https://github.com/quozd/awesome-dotnet
