@@ -61,7 +61,7 @@ Khi nhận nhiệm vụ:
 ```
 # Prompt: Self-critique / Review code
 ```
-Bạn là reviewer cho chính đoạn code bạn vừa viết.
+Bạn là reviewer thực hiện việc đánh giá, review các code change có trong nhánh này.
 Nhiệm vụ:
 1. Kiểm tra lại code với góc nhìn:
   - Correctness,
